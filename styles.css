@@ -32,6 +32,19 @@ h1 {
 
 }
 
+@media (max-width: 600px) {
+    .logo {
+        width:98%;
+        padding: 4px;
+    }
+
+    .ascii-logo {
+        font-size: 3px;
+        line-height: 1;
+        margin: 0;
+    }
+}
+
 .header2 {
     margin-top: 5px;
     background-color: rgb(22, 0, 5);
