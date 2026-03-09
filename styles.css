@@ -24,7 +24,7 @@ h1 {
 .ascii-logo {
     text-align: center;
     font-family: monospace;
-    font-size: clamp(4px, 2.8vw, 16px);
+    font-size: clamp(4px, 1.7vw, 16px);
     line-height: 1;
     margin: 0;
     color: rgb(253, 0, 55);
