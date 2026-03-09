@@ -12,12 +12,18 @@ h1 {
 }
 
 .text-logo {
-    background-color: rgb(22, 0, 5)
+    background-color: rgb(22, 0, 5);
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .header2 {
     margin-top: 50px;
     background-color: rgb(22, 0, 5);
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .cartman {
@@ -26,9 +32,17 @@ h1 {
 
 .aboutmediv {
     font-size: 20px;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(22, 0, 5);
 }
 
 .contactsdiv {
     margin-top: 10px;
     font-size: 20px;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(22, 0, 5);
 }
