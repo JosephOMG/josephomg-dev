@@ -1,0 +1,33 @@
+body {
+    background-color: black;
+    text-align: center;
+    font-family: monospace;
+    
+}
+
+.abtme-maintext {
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    color: white;
+    max-width: 700px;
+    background-color: rgb(36, 0, 8);
+    
+}
+
+.header-aboutme {
+    color: rgb(253, 0, 55);
+}
+
+.aboutimage {
+    display: block;
+    width: 500px;
+    max-width: 90%;
+    height: auto;
+    margin: 25px auto;
+    border-radius: 20px;
+}
+
+.gallery {
+    color:rgb(255, 255, 255)
+}
