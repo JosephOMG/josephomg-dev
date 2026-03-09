@@ -19,6 +19,22 @@ body {
     
 }
 
+.highlight1 {
+    color: rgb(253, 0, 55);
+    font-weight: bold;
+}
+
+@media (max-width: 600px) {
+    .abtme-maintext {
+        width: 98%;
+        text-align: center;
+        padding: 20px;
+        margin-left: auto;
+        margin-right: auto;
+        box-sizing: border-box;
+    }
+}
+
 .header-aboutme {
     color: rgb(253, 0, 55);
 }

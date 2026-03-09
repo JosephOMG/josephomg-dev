@@ -34,12 +34,12 @@ h1 {
 
 @media (max-width: 600px) {
     .logo {
-        width:98%;
-        padding: 4px;
+        width:100%;
+        padding: 8px;
     }
 
     .ascii-logo {
-        font-size: 20px !important;
+        font-size: 45% !important;
         line-height: 1;
         margin: 0;
     }
